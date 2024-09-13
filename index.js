@@ -148,6 +148,7 @@ const mostrarMensagens = () => {
         mensagem = ''
     }   
 }
+
 const start = async () => {
     await carregarMetas()
 
